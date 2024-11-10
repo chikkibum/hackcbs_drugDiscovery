@@ -2,6 +2,15 @@
 
 *DrugDiscovery* addresses the need for a comprehensive, intuitive platform designed to simplify molecular research and foster collaboration. Researchers and developers often face challenges with the complexity of molecular structures, the intricacies of designing novel molecules with SMILES notation, and inefficiencies in team communication. Traditional methods can be time-consuming and lack the AI-driven tools and real-time collaboration needed for efficient, impactful research.
 
+## photos 
+![WhatsApp Image 2024-11-10 at 10 48 as44 AM](https://github.com/user-attachments/assets/7505e0bf-2bde-4882-bf45-cdba47ee9538)
+
+![WhatsApp Image 2024-11-10 at 10a 46 39 AM](https://github.com/user-attachments/assets/12ca823c-1f32-4309-8471-9f4c25eaadb1)
+
+![WhatsApp Image 2024-11-10 at 10 46 39 AM](https://github.com/user-attachments/assets/d937089c-28e2-448e-8108-85846e90e46a)
+
+![as](https://github.com/user-attachments/assets/e71cb11b-6608-476e-a088-5c870b095445)
+
 
 ## ⚙ Tech Stack
 
@@ -85,3 +94,10 @@ npm run dev
 
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+
+## Video Overview
+
+For a quick overview and demonstration of *DrugDiscovery*, watch our video on YouTube:
+
+[DrugDiscovery Overview](https://youtu.be/OBgHyUCO4Lc?si=5GkGrbsP5LxT4wfb)
