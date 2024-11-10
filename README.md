@@ -49,36 +49,39 @@ Make sure you have the following installed on your machine:
 
 Clone the repository and navigate into the project directory:
 
-bash
+``` 
 git clone https://github.com/mendsalbert/ProteinBind.git
 cd proteinbind
+```
 
 
 ### Installation
 
 Install the project dependencies using npm:
 
-
+```
 npm install
-
+```
 
 ### *Set Up Environment Variables*
 
-Create a new file named .env in the root of your project and add the following content:
+Create a new file named `.env` in the root of your project and add the following content:
 
-env
+```
 NEXTAUTH_SECRET=
 RESEND_KEY=
 NEXT_PUBLIC_API_BASE_URL=http://localhost:3000
 MONGODB_URL=
 NEXT_PUBLIC_NVIDIA_API_KEY=
 NEXT_PUBLIC_ABLY_API_KEY=
+```
 
 
 ### *Running the Project*
 
-bash
+```bash
 npm run dev
+```
 
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
